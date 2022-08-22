@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace prob_11
 {
-    internal class Program
+   class Program
     {
         static void Main(string[] args)
         {
